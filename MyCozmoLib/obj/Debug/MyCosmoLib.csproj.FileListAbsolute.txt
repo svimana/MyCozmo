@@ -1,6 +1,0 @@
-D:\Moe\Tutorials\MyCosmo\MyCosmoLib\bin\Debug\MyCosmoLib.dll
-D:\Moe\Tutorials\MyCosmo\MyCosmoLib\bin\Debug\MyCosmoLib.pdb
-D:\Moe\Tutorials\MyCosmo\MyCosmoLib\obj\Debug\MyCosmoLib.csproj.CoreCompileInputs.cache
-D:\Moe\Tutorials\MyCosmo\MyCosmoLib\obj\Debug\MyCosmoLib.dll
-D:\Moe\Tutorials\MyCosmo\MyCosmoLib\obj\Debug\MyCosmoLib.pdb
-D:\Moe\Tutorials\MyCosmo\MyCosmoLib\obj\Debug\MyCosmoLib.csprojAssemblyReference.cache
