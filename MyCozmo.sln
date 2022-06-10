@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyCozmo", "MyCozmo.csproj", "{E72633A4-F264-4310-B9D2-A34AD1FB2DCF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyCozmoTests", "MyCozmoTests\MyCozmoTests.csproj", "{174A5692-FBFE-4A6C-A4E0-F7EE4D1B011E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyCozmoLib", "MyCozmoLib\MyCozmoLib.csproj", "{681538A7-823C-4CE5-9009-ED6A90DC535A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E72633A4-F264-4310-B9D2-A34AD1FB2DCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E72633A4-F264-4310-B9D2-A34AD1FB2DCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E72633A4-F264-4310-B9D2-A34AD1FB2DCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E72633A4-F264-4310-B9D2-A34AD1FB2DCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{174A5692-FBFE-4A6C-A4E0-F7EE4D1B011E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{174A5692-FBFE-4A6C-A4E0-F7EE4D1B011E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{174A5692-FBFE-4A6C-A4E0-F7EE4D1B011E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{174A5692-FBFE-4A6C-A4E0-F7EE4D1B011E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{681538A7-823C-4CE5-9009-ED6A90DC535A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{681538A7-823C-4CE5-9009-ED6A90DC535A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{681538A7-823C-4CE5-9009-ED6A90DC535A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{681538A7-823C-4CE5-9009-ED6A90DC535A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E99B7D7C-F532-47AD-9FAF-6973FF4EAF7E}
+	EndGlobalSection
+EndGlobal
